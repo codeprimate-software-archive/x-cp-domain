@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<classpaths>
+  <classpath pathid="runtime.classpath">
+    <pathelement path="${lib.dir}/commons-logging-1.1.1.jar"/>
+    <pathelement path="${lib.dir}/cp-common.jar"/>
+    <pathelement path="${lib.dir}/log4j-1.2.16.jar"/>
+    <pathelement path="${lib.dir}/slf4j-api-1.6.1.jar"/>
+    <pathelement path="${lib.dir}/slf4j-log4j12-1.6.1.jar"/>
+  </classpath>
+</classpaths>
